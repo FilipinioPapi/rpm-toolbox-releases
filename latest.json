@@ -1,0 +1,7 @@
+{
+  "version": "3.0.5",
+  "notes": "- Automatic updates: new versions install by themselves overnight (2:00 AM), with a backup first\n- More > Updates for Admins: what's new, Check now, Update now, and when updates install\n- Move Box from Hang a Box, with a \"Move this box?\" check",
+  "exe": "3.0.5/RPM-Toolbox.exe",
+  "sha256": "76a7354b539dfda0a15c8fc9a9e8096103284cc33a83886b0ef5134bd1dbdced",
+  "size": 24956416
+}
