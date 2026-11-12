@@ -1,7 +1,7 @@
 {
-  "version": "3.0.10",
-  "notes": "- To do: \"Mech boxes share code\" says which box is where, grouped by place\n- Phones: cleaner Picked Up list, Hang a Box, Boxes, box pages, History filters, To do and Properties; units on their own line\n- Change a box's number, same-number rules (Mech can override; ShowMojo/Supra can't), and \"Kept for\" property tags (kept in backups too)\n- Picked Up asks \"In the office\" or \"With me\"\n- Sliding highlight on menus and filters; no sideways scrolling; faster loading; \"Go back\" in More > Updates",
-  "exe": "3.0.10/RPM-Toolbox.exe",
-  "sha256": "c3394cd7a1b58523f94e3e16d67c737347258b90413986b9198d01365d5f11f7",
-  "size": 25077760
+  "version": "3.0.11",
+  "notes": "- Phones: every To do card has the same layout (tag and X on top, buttons in one full-width row).\n- Phones: red \"missing\" rows stay inside the rounded corners.\n- More > Updates shows the version you're on when there's nothing newer, and Check now finds new versions right away.",
+  "exe": "3.0.11/RPM-Toolbox.exe",
+  "sha256": "72527c4306da72769cd7cf67f3486baf6752099ee4b7ff9ce6b8976c280cfeb6",
+  "size": 25080320
 }
