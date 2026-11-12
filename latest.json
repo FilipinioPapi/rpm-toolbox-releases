@@ -1,7 +1,7 @@
 {
-  "version": "3.0.5",
-  "notes": "- Automatic updates: new versions install by themselves overnight (2:00 AM), with a backup first\n- More > Updates for Admins: what's new, Check now, Update now, and when updates install\n- Move Box from Hang a Box, with a \"Move this box?\" check",
-  "exe": "3.0.5/RPM-Toolbox.exe",
-  "sha256": "76a7354b539dfda0a15c8fc9a9e8096103284cc33a83886b0ef5134bd1dbdced",
-  "size": 24956416
+  "version": "3.0.10",
+  "notes": "- To do: \"Mech boxes share code\" says which box is where, grouped by place\n- Phones: cleaner Picked Up list, Hang a Box, Boxes, box pages, History filters, To do and Properties; units on their own line\n- Change a box's number, same-number rules (Mech can override; ShowMojo/Supra can't), and \"Kept for\" property tags (kept in backups too)\n- Picked Up asks \"In the office\" or \"With me\"\n- Sliding highlight on menus and filters; no sideways scrolling; faster loading; \"Go back\" in More > Updates",
+  "exe": "3.0.10/RPM-Toolbox.exe",
+  "sha256": "c3394cd7a1b58523f94e3e16d67c737347258b90413986b9198d01365d5f11f7",
+  "size": 25077760
 }
