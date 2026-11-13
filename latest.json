@@ -1,7 +1,7 @@
 {
-  "version": "3.0.11",
-  "notes": "- Phones: every To do card has the same layout (tag and X on top, buttons in one full-width row).\n- Phones: red \"missing\" rows stay inside the rounded corners.\n- More > Updates shows the version you're on when there's nothing newer, and Check now finds new versions right away.",
-  "exe": "3.0.11/RPM-Toolbox.exe",
-  "sha256": "72527c4306da72769cd7cf67f3486baf6752099ee4b7ff9ce6b8976c280cfeb6",
-  "size": 25080320
+  "version": "3.0.12",
+  "notes": "- iPhones: the home-screen app picks up new versions by itself (no more re-adding it). The first time, close the app and open it again.\n- The app opens a little faster on phones.",
+  "exe": "3.0.12/RPM-Toolbox.exe",
+  "sha256": "96dd1826e0b46912439b52eeb185a2cef6559dc14ce939a275ebd237d3dd7527",
+  "size": 25086464
 }
