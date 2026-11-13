@@ -1,7 +1,7 @@
 {
-  "version": "3.0.12",
-  "notes": "- iPhones: the home-screen app picks up new versions by itself (no more re-adding it). The first time, close the app and open it again.\n- The app opens a little faster on phones.",
-  "exe": "3.0.12/RPM-Toolbox.exe",
-  "sha256": "96dd1826e0b46912439b52eeb185a2cef6559dc14ce939a275ebd237d3dd7527",
-  "size": 25086464
+  "version": "3.0.13",
+  "notes": "- Lockbox audit: check every box is where the app says; X lets you say where it really is (who has it, or which property) and saving fixes it.\n- To do shows when the lockbox audit is due, and red when it's overdue.\n- Reports > Audits: corrections made, boxes up, what's hanging, past audits.\n- \"Maybe you meant\" when a box number is under another kind.\n- iPhones: the bottom bar stays at the bottom and hides while typing.",
+  "exe": "3.0.13/RPM-Toolbox.exe",
+  "sha256": "7f2f8334a87e7972129d00b3e6837c02a92875fbbea174331c11caa6bed6b501",
+  "size": 25261056
 }
