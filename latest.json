@@ -1,7 +1,7 @@
 {
-  "version": "3.0.15",
-  "notes": "- To do is grouped: ShowMojo boxes not on ShowMojo and boxes up 60+ days each become one card. Mark each box Rented, Still showing, or Picked up.\n- Pickup list for rented units and deactivated properties; red after 7 days waiting.\n- Boxes page: \"To pick up\" filter; Missing and Deactivated are one filter.\n- Phones: lockbox number fields open the number keypad (\".\" types the dash).",
-  "exe": "3.0.15/RPM-Toolbox.exe",
-  "sha256": "5bb67b403197b7bbf82f3b4977cfa420fbf3ad04197207a89e362bfe1bbc4653",
+  "version": "3.0.16",
+  "notes": "- Phones: More > Updates (Admins only), so Check now and Update now work from a phone too.",
+  "exe": "3.0.16/RPM-Toolbox.exe",
+  "sha256": "b5130d0382e02a64f21683592e99ad066a2d85143b599ccea46c2f9140267c13",
   "size": 25297408
 }
