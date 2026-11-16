@@ -1,7 +1,7 @@
 {
-  "version": "3.0.14",
-  "notes": "- iPhones: pulling down at the top of the home-screen app no longer drags the bottom bar up the screen.",
-  "exe": "3.0.14/RPM-Toolbox.exe",
-  "sha256": "743b0a436180725a79cf45e091bb7f0cc95458b66f43f5f451281e46bca9bece",
-  "size": 25261568
+  "version": "3.0.15",
+  "notes": "- To do is grouped: ShowMojo boxes not on ShowMojo and boxes up 60+ days each become one card. Mark each box Rented, Still showing, or Picked up.\n- Pickup list for rented units and deactivated properties; red after 7 days waiting.\n- Boxes page: \"To pick up\" filter; Missing and Deactivated are one filter.\n- Phones: lockbox number fields open the number keypad (\".\" types the dash).",
+  "exe": "3.0.15/RPM-Toolbox.exe",
+  "sha256": "5bb67b403197b7bbf82f3b4977cfa420fbf3ad04197207a89e362bfe1bbc4653",
+  "size": 25297408
 }
