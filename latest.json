@@ -1,7 +1,7 @@
 {
-  "version": "3.0.19",
-  "notes": "- Audit history: the Audit page opens to a week-by-week view of every box (where it was at each audit, what moved, what was fixed, missed weeks).\n- Last 12 audits shown; Show older weeks goes back further. Every audit is kept.",
-  "exe": "3.0.19/RPM-Toolbox.exe",
-  "sha256": "0a4b93a4c4ecca8639a0b11969e8794a051f1bab84b0b2541a88a3f8e8d1fa55",
-  "size": 25356288
+  "version": "3.0.20",
+  "notes": "- Lockbox audit is one page: history with status at the top; Start audit opens the checklist.\n- Cleaner history: box-type filter only; arrow = moved, dash = same place; tap a square for details.",
+  "exe": "3.0.20/RPM-Toolbox.exe",
+  "sha256": "66cfa241e47ad58483078ec0e33e1b84f4a97f9ab60d8481ec6146575c70597f",
+  "size": 25358848
 }
