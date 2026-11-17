@@ -1,7 +1,7 @@
 {
-  "version": "3.0.18",
-  "notes": "- Lockbox audit: Cancel audit button (Admins).\n- Lockbox audit: Compare to last audit shows every box that moved, came in, or went out.\n- Lockbox audit: saving no longer skips boxes that changed after the audit started; only boxes moved after they were checked keep their newer record, and the audit says so.",
-  "exe": "3.0.18/RPM-Toolbox.exe",
-  "sha256": "ee49a39d28e4c9453ca3f2e743ead51a767c7c7e9f8eccf9e32d0fb47196e6a2",
-  "size": 25324032
+  "version": "3.0.19",
+  "notes": "- Audit history: the Audit page opens to a week-by-week view of every box (where it was at each audit, what moved, what was fixed, missed weeks).\n- Last 12 audits shown; Show older weeks goes back further. Every audit is kept.",
+  "exe": "3.0.19/RPM-Toolbox.exe",
+  "sha256": "0a4b93a4c4ecca8639a0b11969e8794a051f1bab84b0b2541a88a3f8e8d1fa55",
+  "size": 25356288
 }
