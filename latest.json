@@ -1,7 +1,7 @@
 {
-  "version": "3.0.21",
-  "notes": "- A cleaner, calmer look everywhere: system font, softer surfaces, neutral dark mode, frosted header and tab bar. Nothing moved.",
-  "exe": "3.0.21/RPM-Toolbox.exe",
-  "sha256": "a851176a56b10d2f9623344f297897226c78beedf08907cbf6f73d280629a240",
-  "size": 25365504
+  "version": "3.0.22",
+  "notes": "- One search on every page (or press /) for boxes, addresses, units and people.\n- Hang a Box: type the number first; the kind is picked for you.\n- Picked Up right on each hanging box, with Undo.\n- New Settings page (People, ShowMojo, Backup, Lockbox audit, Updates); Names merged into People with a sign-in switch.\n- History is now Activity; Parkside opens from Properties; shorter Recent activity; no footer.",
+  "exe": "3.0.22/RPM-Toolbox.exe",
+  "sha256": "021249956ac44be811061fac08d0392c2c8a9465fec76240e10bf5c613c6b820",
+  "size": 25383424
 }
