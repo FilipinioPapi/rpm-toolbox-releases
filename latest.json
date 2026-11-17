@@ -1,7 +1,7 @@
 {
-  "version": "3.0.17",
-  "notes": "- Lockbox audit: clearer buttons for each kind of box (Still has it, Still missing / Found, and more).\n- Lockbox audit: Pick up puts a hanging box on the pickup list when the audit is saved.\n- To do: the \"Toolbox\" tag is gone.",
-  "exe": "3.0.17/RPM-Toolbox.exe",
-  "sha256": "05c410619500048c2981fbc1c74513426d8b0b4ae84f41b6d4b97ca1137de99a",
-  "size": 25300992
+  "version": "3.0.18",
+  "notes": "- Lockbox audit: Cancel audit button (Admins).\n- Lockbox audit: Compare to last audit shows every box that moved, came in, or went out.\n- Lockbox audit: saving no longer skips boxes that changed after the audit started; only boxes moved after they were checked keep their newer record, and the audit says so.",
+  "exe": "3.0.18/RPM-Toolbox.exe",
+  "sha256": "ee49a39d28e4c9453ca3f2e743ead51a767c7c7e9f8eccf9e32d0fb47196e6a2",
+  "size": 25324032
 }
