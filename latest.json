@@ -1,7 +1,7 @@
 {
-  "version": "3.0.16",
-  "notes": "- Phones: More > Updates (Admins only), so Check now and Update now work from a phone too.",
-  "exe": "3.0.16/RPM-Toolbox.exe",
-  "sha256": "b5130d0382e02a64f21683592e99ad066a2d85143b599ccea46c2f9140267c13",
-  "size": 25297408
+  "version": "3.0.17",
+  "notes": "- Lockbox audit: clearer buttons for each kind of box (Still has it, Still missing / Found, and more).\n- Lockbox audit: Pick up puts a hanging box on the pickup list when the audit is saved.\n- To do: the \"Toolbox\" tag is gone.",
+  "exe": "3.0.17/RPM-Toolbox.exe",
+  "sha256": "05c410619500048c2981fbc1c74513426d8b0b4ae84f41b6d4b97ca1137de99a",
+  "size": 25300992
 }
