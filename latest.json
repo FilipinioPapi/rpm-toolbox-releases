@@ -1,7 +1,7 @@
 {
-  "version": "3.0.20",
-  "notes": "- Lockbox audit is one page: history with status at the top; Start audit opens the checklist.\n- Cleaner history: box-type filter only; arrow = moved, dash = same place; tap a square for details.",
-  "exe": "3.0.20/RPM-Toolbox.exe",
-  "sha256": "66cfa241e47ad58483078ec0e33e1b84f4a97f9ab60d8481ec6146575c70597f",
-  "size": 25358848
+  "version": "3.0.21",
+  "notes": "- A cleaner, calmer look everywhere: system font, softer surfaces, neutral dark mode, frosted header and tab bar. Nothing moved.",
+  "exe": "3.0.21/RPM-Toolbox.exe",
+  "sha256": "a851176a56b10d2f9623344f297897226c78beedf08907cbf6f73d280629a240",
+  "size": 25365504
 }
