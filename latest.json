@@ -1,7 +1,7 @@
 {
-  "version": "3.0.22",
-  "notes": "- One search on every page (or press /) for boxes, addresses, units and people.\n- Hang a Box: type the number first; the kind is picked for you.\n- Picked Up right on each hanging box, with Undo.\n- New Settings page (People, ShowMojo, Backup, Lockbox audit, Updates); Names merged into People with a sign-in switch.\n- History is now Activity; Parkside opens from Properties; shorter Recent activity; no footer.",
-  "exe": "3.0.22/RPM-Toolbox.exe",
-  "sha256": "021249956ac44be811061fac08d0392c2c8a9465fec76240e10bf5c613c6b820",
-  "size": 25383424
+  "version": "3.0.23",
+  "notes": "- \"Kept for\" is now \"Belongs to\": permanently assigning a box to a property says plainly it isn't hanging or checking it out.",
+  "exe": "3.0.23/RPM-Toolbox.exe",
+  "sha256": "57cfc5cf1a9af00ee9e4cedb9a63af98b02ded602cb7545dd8bdfa8d09eca666",
+  "size": 25384448
 }
