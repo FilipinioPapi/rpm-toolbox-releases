@@ -1,7 +1,7 @@
 {
-  "version": "3.0.23",
-  "notes": "- \"Kept for\" is now \"Belongs to\": permanently assigning a box to a property says plainly it isn't hanging or checking it out.",
-  "exe": "3.0.23/RPM-Toolbox.exe",
-  "sha256": "57cfc5cf1a9af00ee9e4cedb9a63af98b02ded602cb7545dd8bdfa8d09eca666",
-  "size": 25384448
+  "version": "3.0.24",
+  "notes": "- Hang Box asks Who's hanging it: Me, now / Someone else (On the way until they tap Hung it) / Just pulling it.\n- Check out buttons are folded into Hang Box.\n- On the way panel with Hung it; To do flags boxes not hung after 2 days.",
+  "exe": "3.0.24/RPM-Toolbox.exe",
+  "sha256": "e0ba6103d5ed4887aab9ba663ca01b52890f4388e9359418373c77c24a75c8d6",
+  "size": 25406464
 }
