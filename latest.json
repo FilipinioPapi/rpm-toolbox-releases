@@ -1,7 +1,7 @@
 {
-  "version": "3.0.24",
-  "notes": "- Hang Box asks Who's hanging it: Me, now / Someone else (On the way until they tap Hung it) / Just pulling it.\n- Check out buttons are folded into Hang Box.\n- On the way panel with Hung it; To do flags boxes not hung after 2 days.",
-  "exe": "3.0.24/RPM-Toolbox.exe",
-  "sha256": "e0ba6103d5ed4887aab9ba663ca01b52890f4388e9359418373c77c24a75c8d6",
-  "size": 25406464
+  "version": "3.0.25",
+  "notes": "- Hang a Box redesigned: every box of a kind in a list with Parkside / Belongs to tags, a filter, and Maybe you meant for other kinds. Details beside the list (desktop) or on a second step (phone).",
+  "exe": "3.0.25/RPM-Toolbox.exe",
+  "sha256": "9f9ddd84079b0d20741b336ac1e6cc193e6fb002186bef74f5eac6fda8e5be16",
+  "size": 25415168
 }
