@@ -1,7 +1,7 @@
 {
-  "version": "3.0.25",
-  "notes": "- Hang a Box redesigned: every box of a kind in a list with Parkside / Belongs to tags, a filter, and Maybe you meant for other kinds. Details beside the list (desktop) or on a second step (phone).",
-  "exe": "3.0.25/RPM-Toolbox.exe",
-  "sha256": "9f9ddd84079b0d20741b336ac1e6cc193e6fb002186bef74f5eac6fda8e5be16",
-  "size": 25415168
+  "version": "3.0.26",
+  "notes": "- Rename a person (Settings > People) to fix a misspelling; it changes everywhere, past Activity included.\n- Picked Up always asks first (Boxes rows and the Pickup list open the usual form).\n- Phones: fixed text running into buttons or off the edge.",
+  "exe": "3.0.26/RPM-Toolbox.exe",
+  "sha256": "dc26162fce6aacb753d75a41ee302c8c056999142b504297567c2490ba2f4d4c",
+  "size": 25435136
 }
