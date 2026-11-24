@@ -1,7 +1,7 @@
 {
-  "version": "3.0.26",
-  "notes": "- Rename a person (Settings > People) to fix a misspelling; it changes everywhere, past Activity included.\n- Picked Up always asks first (Boxes rows and the Pickup list open the usual form).\n- Phones: fixed text running into buttons or off the edge.",
-  "exe": "3.0.26/RPM-Toolbox.exe",
-  "sha256": "dc26162fce6aacb753d75a41ee302c8c056999142b504297567c2490ba2f4d4c",
-  "size": 25435136
+  "version": "3.0.27",
+  "notes": "- To do groups several overdue boxes with one person into one card that opens the list.\n- Boxes with you say With you and sit at the top.\n- Phones: swipe from the left edge to go back; pull pop-ups down to close.",
+  "exe": "3.0.27/RPM-Toolbox.exe",
+  "sha256": "0d780913be1ce21e652e717644ade18df3bca7850901fe31ae4d1274240d44ff",
+  "size": 25449472
 }
