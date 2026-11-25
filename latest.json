@@ -1,7 +1,7 @@
 {
-  "version": "3.0.30",
-  "notes": "- Spots: hang a box at the pool, gate or other spot at Parkside and any multi-unit property.\n- Kept for good: mark a box a person keeps for good; it never shows as late.\n- Fixed: errors in Pull a Box no longer squeeze the summary; buttons stay at the bottom.",
-  "exe": "3.0.30/RPM-Toolbox.exe",
-  "sha256": "21329e3f4404a798a5122a94596037f2a4126026beabb74a539c8b80c9593232",
-  "size": 25515520
+  "version": "3.0.31",
+  "notes": "- Locked out: run \"RPM Toolbox.exe\" server reset-admin on the RPM Server PC (as administrator) for a new starting admin password.\n- People: your own row shows Change my password instead of Reset password.",
+  "exe": "3.0.31/RPM-Toolbox.exe",
+  "sha256": "cf0824d6c53728051d6676b657b4fb9b806d2715ed1c03ae57e6338f936d0ace",
+  "size": 25522176
 }
