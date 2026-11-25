@@ -1,7 +1,7 @@
 {
-  "version": "3.0.28",
-  "notes": "- Hang Box is now Pull a Box: Me (hanging it now / later / just pulling it) or Someone else (hanging it / just holding onto it).\n- Phones: the box number box opens the number pad, with a Parkside button.",
-  "exe": "3.0.28/RPM-Toolbox.exe",
-  "sha256": "319134345bf7e2897ef98d62d92224f1f85e0e71423af7a6724406e352408556",
-  "size": 25452544
+  "version": "3.0.29",
+  "notes": "- Pull a Box: pull one box of each kind for the same property at once.\n- Home: Boxes to hang is a small tile with Open; the list is grouped by place.\n- At the place, tick what was hung; the rest go back to the office or stay with you.",
+  "exe": "3.0.29/RPM-Toolbox.exe",
+  "sha256": "bb6b689eec6c85d53d43123040a3622a00ed6e73b0fec3724f5bcaa01eedc791",
+  "size": 25483264
 }
