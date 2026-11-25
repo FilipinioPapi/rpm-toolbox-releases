@@ -1,7 +1,7 @@
 {
-  "version": "3.0.29",
-  "notes": "- Pull a Box: pull one box of each kind for the same property at once.\n- Home: Boxes to hang is a small tile with Open; the list is grouped by place.\n- At the place, tick what was hung; the rest go back to the office or stay with you.",
-  "exe": "3.0.29/RPM-Toolbox.exe",
-  "sha256": "bb6b689eec6c85d53d43123040a3622a00ed6e73b0fec3724f5bcaa01eedc791",
-  "size": 25483264
+  "version": "3.0.30",
+  "notes": "- Spots: hang a box at the pool, gate or other spot at Parkside and any multi-unit property.\n- Kept for good: mark a box a person keeps for good; it never shows as late.\n- Fixed: errors in Pull a Box no longer squeeze the summary; buttons stay at the bottom.",
+  "exe": "3.0.30/RPM-Toolbox.exe",
+  "sha256": "21329e3f4404a798a5122a94596037f2a4126026beabb74a539c8b80c9593232",
+  "size": 25515520
 }
