@@ -1,7 +1,7 @@
 {
-  "version": "3.0.32",
-  "notes": "- Properties cleaned up: one line per property; complexes fold and show only units with boxes (spots first); All lists every unit.",
-  "exe": "3.0.32/RPM-Toolbox.exe",
-  "sha256": "e28f2f8d3103675c043d31c465aaf8edca3649ba89fae8348630d93d12302300",
-  "size": 25525248
+  "version": "3.0.33",
+  "notes": "- Boxes marked to hang are outstanding only after 2 weeks.\n- Properties opens on With boxes, everything unfolded; tidier rows.",
+  "exe": "3.0.33/RPM-Toolbox.exe",
+  "sha256": "aac64b68751dba9acab468584bab3098753d7c464ca2933cb558ed7d9cbba214",
+  "size": 25526272
 }
