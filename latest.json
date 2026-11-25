@@ -1,7 +1,7 @@
 {
-  "version": "3.0.33",
-  "notes": "- Boxes marked to hang are outstanding only after 2 weeks.\n- Properties opens on With boxes, everything unfolded; tidier rows.",
-  "exe": "3.0.33/RPM-Toolbox.exe",
-  "sha256": "aac64b68751dba9acab468584bab3098753d7c464ca2933cb558ed7d9cbba214",
-  "size": 25526272
+  "version": "3.0.34",
+  "notes": "- \"Kept for good\" is now \"Personal box\"; personal boxes are listed under With a person, tagged.",
+  "exe": "3.0.34/RPM-Toolbox.exe",
+  "sha256": "3440b1f7a33bdc52dd73ef1a22b238189723f073b2e767973eb7bf5a84dda84e",
+  "size": 25527296
 }
