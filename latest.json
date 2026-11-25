@@ -1,7 +1,7 @@
 {
-  "version": "3.0.27",
-  "notes": "- To do groups several overdue boxes with one person into one card that opens the list.\n- Boxes with you say With you and sit at the top.\n- Phones: swipe from the left edge to go back; pull pop-ups down to close.",
-  "exe": "3.0.27/RPM-Toolbox.exe",
-  "sha256": "0d780913be1ce21e652e717644ade18df3bca7850901fe31ae4d1274240d44ff",
-  "size": 25449472
+  "version": "3.0.28",
+  "notes": "- Hang Box is now Pull a Box: Me (hanging it now / later / just pulling it) or Someone else (hanging it / just holding onto it).\n- Phones: the box number box opens the number pad, with a Parkside button.",
+  "exe": "3.0.28/RPM-Toolbox.exe",
+  "sha256": "319134345bf7e2897ef98d62d92224f1f85e0e71423af7a6724406e352408556",
+  "size": 25452544
 }
