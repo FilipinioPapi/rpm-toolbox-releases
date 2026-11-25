@@ -1,7 +1,7 @@
 {
-  "version": "3.0.31",
-  "notes": "- Locked out: run \"RPM Toolbox.exe\" server reset-admin on the RPM Server PC (as administrator) for a new starting admin password.\n- People: your own row shows Change my password instead of Reset password.",
-  "exe": "3.0.31/RPM-Toolbox.exe",
-  "sha256": "cf0824d6c53728051d6676b657b4fb9b806d2715ed1c03ae57e6338f936d0ace",
-  "size": 25522176
+  "version": "3.0.32",
+  "notes": "- Properties cleaned up: one line per property; complexes fold and show only units with boxes (spots first); All lists every unit.",
+  "exe": "3.0.32/RPM-Toolbox.exe",
+  "sha256": "e28f2f8d3103675c043d31c465aaf8edca3649ba89fae8348630d93d12302300",
+  "size": 25525248
 }
